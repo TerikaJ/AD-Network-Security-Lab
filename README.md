@@ -1,5 +1,7 @@
 # Network Security Lab: Splunk, Sysmon & Kali Linux
 
+<img src="https://github.com/user-attachments/assets/57f841bb-e146-4a02-a1b6-41c6b77ee6a0" width="700" height="500"/>
+
 This project sets up a virtual environment using Oracle VM VirtualBox, featuring Windows 10, Kali Linux, Windows Server, and Ubuntu Server VMs. The environment is configured for network communication, security monitoring, and testing. Tools include Splunk for log analysis, Sysmon for endpoint monitoring, and Crowbar for brute-force attacks.
 
 **Estimated completion time:** 3-4 hours
